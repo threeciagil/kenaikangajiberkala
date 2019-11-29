@@ -7,7 +7,7 @@
     <ProjectGuid>{92F8BCCD-5326-4854-8F79-17AAB85707DF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>KGB_BAKESBANGPOL</RootNamespace>
-    <AssemblyName>KGB_BAKESBANGPOL</AssemblyName>
+    <AssemblyName>Kenaikan Gaji Berkala</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -31,6 +31,10 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.VisualBasic" />
@@ -86,6 +90,12 @@
     <Compile Include="Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
+    <Compile Include="pemberitahuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pemberitahuan.Designer.cs">
+      <DependentUpon>pemberitahuan.cs</DependentUpon>
+    </Compile>
     <Compile Include="pengaturan.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -94,6 +104,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tambahAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tambahAdmin.Designer.cs">
+      <DependentUpon>tambahAdmin.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="caridata.resx">
       <DependentUpon>caridata.cs</DependentUpon>
     </EmbeddedResource>
@@ -112,6 +128,9 @@
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="pemberitahuan.resx">
+      <DependentUpon>pemberitahuan.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="pengaturan.resx">
       <DependentUpon>pengaturan.cs</DependentUpon>
     </EmbeddedResource>
@@ -125,6 +144,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="tambahAdmin.resx">
+      <DependentUpon>tambahAdmin.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
