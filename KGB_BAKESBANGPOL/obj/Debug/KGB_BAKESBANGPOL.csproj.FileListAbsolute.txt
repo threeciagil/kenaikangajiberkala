@@ -1,0 +1,130 @@
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.exe.config
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.exe
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.pdb
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.caridata.resources
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Home.resources
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.InputData.resources
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Login.resources
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Properties.Resources.resources
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.tambahAdmin.resources
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.exe
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pdb
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pemberitahuan.resources
+C:\Users\ASUS\source\repos\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.FormKGB.resources
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.exe.config
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.exe
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.pdb
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.caridata.resources
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.FormKGB.resources
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Home.resources
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.InputData.resources
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Login.resources
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pemberitahuan.resources
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Properties.Resources.resources
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.tambahAdmin.resources
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.GenerateResource.cache
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.CopyComplete
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.exe
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pdb
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.editData.resources
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.forgotPass.resources
+C:\Users\ASUS\source\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pengaturan.resources
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.exe.config
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.exe
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.pdb
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.caridata.resources
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.editData.resources
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.forgotPass.resources
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.FormKGB.resources
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Home.resources
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.InputData.resources
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Login.resources
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pemberitahuan.resources
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pengaturan.resources
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Properties.Resources.resources
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.tambahAdmin.resources
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.GenerateResource.cache
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.CopyComplete
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.exe
+C:\Users\ASUS\source\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pdb
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.exe.config
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.exe
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.pdb
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\MySql.Data.dll
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Google.Protobuf.dll
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\MySql.Data.xml
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csprojAssemblyReference.cache
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.editData.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.forgotPass.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Home.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.InputData.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Login.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pengaturan.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Properties.Resources.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.GenerateResource.cache
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.CoreCompileInputs.cache
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.CopyComplete
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.exe
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pdb
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\New folder\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.caridata.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.exe.config
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.exe
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.pdb
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\MySql.Data.dll
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Google.Protobuf.dll
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\MySql.Data.xml
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csprojAssemblyReference.cache
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.caridata.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.editData.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.forgotPass.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Home.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.InputData.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Login.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pengaturan.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Properties.Resources.resources
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.GenerateResource.cache
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.CoreCompileInputs.cache
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.CopyComplete
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.exe
+D:\semester 7\MKPL\v 1.1(edit data, forgot password)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pdb
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csprojAssemblyReference.cache
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Home.resources
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.InputData.resources
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Login.resources
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pengaturan.resources
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.Properties.Resources.resources
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.GenerateResource.cache
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.CoreCompileInputs.cache
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.exe
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.pdb
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.exe.config
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.exe
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\KGB_BAKESBANGPOL.pdb
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\MySql.Data.dll
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Google.Protobuf.dll
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\bin\Debug\MySql.Data.xml
+D:\semester 7\MKPL\v 1.0(pemberitahuan, login, input data, pengaturan)\KGB_BAKESBANGPOL\KGB_BAKESBANGPOL\obj\Debug\KGB_BAKESBANGPOL.csproj.CopyComplete
