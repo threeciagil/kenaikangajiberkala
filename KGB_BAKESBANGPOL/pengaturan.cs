@@ -141,6 +141,13 @@ namespace KGB_BAKESBANGPOL
 
         }
 
+        private void button4_Click(object sender, EventArgs e)
+        {
+            caridata cari = new caridata();
+            cari.passValue(username);
+            this.Hide();
+            cari.Show();
+        }
 
         private void label1_Click(object sender, EventArgs e)
         {

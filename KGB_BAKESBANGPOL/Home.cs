@@ -67,6 +67,14 @@ namespace KGB_BAKESBANGPOL
             xx.Show();
         }
 
+        private void caridata_Click(object sender, EventArgs e)
+        {
+            caridata cari = new caridata();
+            cari.passValue(username);
+            this.Hide();
+            cari.Show();
+        }
+
         private void pictureBox7_Click(object sender, EventArgs e)
         {
             Login outt = new Login();
