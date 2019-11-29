@@ -50,6 +50,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="caridata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="caridata.Designer.cs">
+      <DependentUpon>caridata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editData.Designer.cs">
+      <DependentUpon>editData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forgotPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forgotPass.Designer.cs">
+      <DependentUpon>forgotPass.cs</DependentUpon>
+    </Compile>
     <Compile Include="Home.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +94,15 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="caridata.resx">
+      <DependentUpon>caridata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editData.resx">
+      <DependentUpon>editData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forgotPass.resx">
+      <DependentUpon>forgotPass.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Home.resx">
       <DependentUpon>Home.cs</DependentUpon>
     </EmbeddedResource>

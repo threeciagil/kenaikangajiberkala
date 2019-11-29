@@ -73,6 +73,12 @@ namespace KGB_BAKESBANGPOL
             username.ForeColor = Color.Black;
         }
 
+        private void forgot_Click(object sender, EventArgs e)
+        {
+            forgotPass forgot = new forgotPass();            
+            forgot.Show();       
+            this.Hide();
+        }
     }
 }
 

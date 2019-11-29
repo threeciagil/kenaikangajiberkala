@@ -85,10 +85,10 @@ namespace KGB_BAKESBANGPOL
                     cmd2.ExecuteNonQuery();
                     cmd2.Parameters.Clear();
 
-                    //MessageBox.Show("Data berhasil disimpan");
-                    //caridata c = new caridata();
-                    //c.Show();
-                    //this.Hide();
+                    MessageBox.Show("Data berhasil disimpan");
+                    caridata c = new caridata();
+                    c.Show();
+                    this.Hide();
                     //notif.opTanggal(dateTimePicker1);
                 }
                 catch (Exception ex)
@@ -167,5 +167,12 @@ namespace KGB_BAKESBANGPOL
 
         }
 
+        private void button4_Click(object sender, EventArgs e)
+        {
+            caridata cari = new caridata();
+            cari.passValue(username);
+            this.Hide();
+            cari.Show();
+        }
     }
 }
