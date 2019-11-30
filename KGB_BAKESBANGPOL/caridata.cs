@@ -36,7 +36,7 @@ namespace KGB_BAKESBANGPOL
             if (radioButton1.Checked == true)
             {
                 listPegawai.Items.Clear();
-                string query = "SELECT a.nip, b.nama, a.pangkat, b.pendidikan, a.jabatan, a.gajipokok, b.tmptlhr, b.tgllhr FROM datask a JOIN datapegawai b ON b.nip = a.nip where a.nip like '%" + cari.Text + "%'";
+                string query = "SELECT a.nip, b.nama, a.pangkat, b.pendidikan, a.jabatan, a.gajipokok, b.tmptlhr, b.tgllhr, b.status FROM datask a JOIN datapegawai b ON b.nip = a.nip where a.nip like '%" + cari.Text + "%'";
                 //string query = "SELECT nip, golongan, pangkat FROM datask Where Nip like '%" + cari.Text + "%'";
                 try
                 {
@@ -68,7 +68,7 @@ namespace KGB_BAKESBANGPOL
             else if (radioButton2.Checked == true)
             {
                 listPegawai.Items.Clear();
-                string query1 = "SELECT a.nip, b.nama, a.pangkat, b.pendidikan, a.jabatan, a.gajipokok, b.tmptlhr, b.tgllhr FROM datask a JOIN datapegawai b ON b.nip = a.nip where b.nama like '%" + cari.Text + "%'";
+                string query1 = "SELECT a.nip, b.nama, a.pangkat, b.pendidikan, a.jabatan, a.gajipokok, b.tmptlhr, b.tgllhr, b.status FROM datask a JOIN datapegawai b ON b.nip = a.nip where b.nama like '%" + cari.Text + "%'";
                 //"SELECT datask.nip, datapegawai.nama, datask.golongan, datask.pangkat FROM datask, datapegawai where datask.nip = like '%" + cari.Text + "%' AND datapegawai.nip = like '%" + cari.Text + "%'"
                 try
                 {
@@ -85,6 +85,8 @@ namespace KGB_BAKESBANGPOL
                         listViewItem.SubItems.Add(reader[4].ToString());
                         listViewItem.SubItems.Add(reader[5].ToString());
                         listViewItem.SubItems.Add(reader[6].ToString());
+                        listViewItem.SubItems.Add(reader[7].ToString());
+                        listViewItem.SubItems.Add(reader[8].ToString());
                         listPegawai.Items.Add(listViewItem);
                     }
                     reader.Close();
@@ -104,7 +106,7 @@ namespace KGB_BAKESBANGPOL
         private void showAll()
         {
             listPegawai.Items.Clear();
-            string query = "SELECT a.nip, b.nama, a.pangkat, b.pendidikan, a.jabatan, a.gajipokok, b.tmptlhr, b.tgllhr FROM datask a JOIN datapegawai b ON b.nip = a.nip GROUP BY b.nama";// INNER JOIN nama ON Nip like '%" + cari.Text + "%'";
+            string query = "SELECT a.nip, b.nama, a.pangkat, b.pendidikan, a.jabatan, a.gajipokok, b.tmptlhr, b.tgllhr, b.status FROM datask a JOIN datapegawai b ON b.nip = a.nip GROUP BY b.nama";// INNER JOIN nama ON Nip like '%" + cari.Text + "%'";
             try
             {
                 // Open the database
@@ -124,6 +126,7 @@ namespace KGB_BAKESBANGPOL
                         listViewItem.SubItems.Add(reader[5].ToString());
                         listViewItem.SubItems.Add(reader[6].ToString());
                         listViewItem.SubItems.Add(reader[7].ToString());
+                        listViewItem.SubItems.Add(reader[8].ToString());
                         listPegawai.Items.Add(listViewItem);
                     }
 
@@ -154,6 +157,14 @@ namespace KGB_BAKESBANGPOL
             add.passValue(username);
             this.Hide();
             add.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            tambahAdmin tambah = new tambahAdmin();
+            tambah.passValue(username);
+            this.Hide();
+            tambah.Show();
         }
 
         String username;
@@ -197,40 +208,57 @@ namespace KGB_BAKESBANGPOL
             }
         }
 
+        //String username;
+
+        //public void passValue(String username)
+        //{
+        //    this.username = username;
+        //    label2.Text = username;
+        //}
+
         private void hapus_Click(object sender, EventArgs e)
         {
-                if (listPegawai.SelectedItems.Count > 0)
+            if (listPegawai.SelectedItems.Count > 0)
+            {
+                ListViewItem pilih = listPegawai.SelectedItems[0];
+                textBox1.Text = pilih.SubItems[0].Text;
+                DialogResult result = MessageBox.Show("Apakah anda yakin pegawai dipidahkan?", "Warning",
+                             MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                if (result == DialogResult.Yes)
                 {
-                    ListViewItem pilih = listPegawai.SelectedItems[0];
-                    textBox1.Text = pilih.SubItems[0].Text;
-                    DialogResult result = MessageBox.Show("Are you sure you want to delete?", "Warning",
-                                     MessageBoxButtons.OKCancel, MessageBoxIcon.Warning);
-                    if (result == DialogResult.OK)
-                    {
-                        string query = "DELETE FROM datapegawai WHERE NIP = @nip";
-                        MyConn();
-                        MySqlCommand cmd = new MySqlCommand(query, conn);
-                        cmd.Parameters.AddWithValue("@nip", textBox1.Text);
-                        cmd.ExecuteNonQuery();
-                        MessageBox.Show("Delete success");
-                        conn.Close();
-                        showAll();
-                    }
-                    else if (result == DialogResult.Cancel)
-                    {
-                        MessageBox.Show("Delete canceled");
-                    }
+                    string query = "Update datapegawai SET status = @status WHERE nip=@nip";
+                    MyConn();
+                    MySqlCommand cmd = new MySqlCommand(query, conn);
+                    cmd.Parameters.AddWithValue("@nip", textBox1.Text);
+                    cmd.Parameters.AddWithValue("@status", "Pindah");
+                    cmd.ExecuteNonQuery();
+                    MessageBox.Show("Berhasil");
+                    conn.Close();
+                    showAll();
                 }
-                else
+
+                else if (result == DialogResult.No)
                 {
-                    MessageBox.Show("Gagal menghapus data");
+                    MessageBox.Show("Proses dibatalkan");
                 }
-            
+            }
+            else
+            {
+                MessageBox.Show("Harap pilih salah satu data");
+            }
         }
 
         private void label3_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            pemberitahuan notif = new pemberitahuan();
+            notif.passValue(username);
+            notif.Show();
+            this.Hide();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -267,6 +295,14 @@ namespace KGB_BAKESBANGPOL
             }
         }
 
+        private void button7_Click_1(object sender, EventArgs e)
+        {
+            pemberitahuan x = new pemberitahuan();
+            x.passValue(username);
+            x.Show();
+            this.Hide();
+        }
+
         private void caridata_Load(object sender, EventArgs e)
         {
             listPegawai.Columns.Add("NIP", 120);
@@ -278,6 +314,7 @@ namespace KGB_BAKESBANGPOL
             listPegawai.Columns.Add("GAJI POKOK", 120);
             listPegawai.Columns.Add("TEMPAT LAHIR", 120);
             listPegawai.Columns.Add("TANGGAL LAHIR", 120);
+            listPegawai.Columns.Add("STATUS", 120);
         }
     }
 

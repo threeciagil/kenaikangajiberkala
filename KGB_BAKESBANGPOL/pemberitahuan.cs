@@ -37,8 +37,9 @@ namespace KGB_BAKESBANGPOL
             int totalBulan, xx;
             //String name = "inayah";
             DateTime Day = DateTime.Now;
-            string queryy = "SELECT a.nip, b.nama, a.tglmsk, a.pangkat, a.jabatan FROM datask a JOIN datapegawai b ON a.nip = b.nip ";
+            string queryy = "SELECT a.nip, b.nama, a.tglmsk, a.pangkat, a.jabatan, b.status FROM datask a JOIN datapegawai b ON a.nip = b.nip where b.status = @peg";
             MySqlCommand cmd = new MySqlCommand(queryy, conn);
+            cmd.Parameters.AddWithValue("@peg", "Pegawai");
             //cmd.Parameters.AddWithValue("@n", name);
             MySqlDataReader r = cmd.ExecuteReader();
             if (r.HasRows)
@@ -59,6 +60,7 @@ namespace KGB_BAKESBANGPOL
                         li.SubItems.Add(r[1].ToString());
                         li.SubItems.Add(r[3].ToString());
                         li.SubItems.Add(r[4].ToString());
+                        li.SubItems.Add(r[5].ToString());
                         listKGB.Items.Add(li);
                     }
                     //else
@@ -134,6 +136,7 @@ namespace KGB_BAKESBANGPOL
             listKGB.Columns.Add("NAMA", 150);
             listKGB.Columns.Add("PANGKAT", 150);
             listKGB.Columns.Add("JABATAN", 150);
+            listKGB.Columns.Add("STATUS", 150);
         }
 
         private void tampilkan_Click(object sender, EventArgs e)
@@ -147,11 +150,11 @@ namespace KGB_BAKESBANGPOL
                 //textBox1.Text = pilih.SubItems[1].Text;
                 
                 //masakerja(); parameter
-                //FormKGB kgb = new FormKGB();
+                FormKGB kgb = new FormKGB();
                 //kgb.view(textBox1.Text);
-                //kgb.passValue(textBox4.Text, label4.Text);
-                //kgb.Show();
-                //this.Hide();
+                kgb.passValue(textBox4.Text, label4.Text);
+                kgb.Show();
+                this.Hide();
             }
             else
             {

@@ -33,8 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>
-    </ApplicationIcon>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.VisualBasic" />
@@ -71,6 +70,12 @@
     </Compile>
     <Compile Include="forgotPass.Designer.cs">
       <DependentUpon>forgotPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKGB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKGB.Designer.cs">
+      <DependentUpon>FormKGB.cs</DependentUpon>
     </Compile>
     <Compile Include="Home.cs">
       <SubType>Form</SubType>
@@ -119,6 +124,9 @@
     <EmbeddedResource Include="forgotPass.resx">
       <DependentUpon>forgotPass.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormKGB.resx">
+      <DependentUpon>FormKGB.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Home.resx">
       <DependentUpon>Home.cs</DependentUpon>
     </EmbeddedResource>
@@ -165,6 +173,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\logo bakesbangpol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
