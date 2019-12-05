@@ -10,6 +10,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+
+//UODATEndskhfjeigrnlkedmrgkljmerkinmg
+
+
+
+
+
+
 namespace KGB_BAKESBANGPOL
 {
     public partial class pemberitahuan : Form
